@@ -10,8 +10,34 @@
 .sec{
     background-color: rgba(162, 211, 203, 0.521);
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .navbar-default {
   background: none;
+}
+.form{
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.chill{
+  position: absolute;
+  margin-top: 0%;
+  height: auto; 
+    width: auto; 
+    max-width: 500px; 
+    z-index: -1;
+}
+.icon{
+height: 20px;
+}
+
+h3{
+  color: aliceblue;
+  opacity: 75%;
+}
+
+.col{
+  height: 100%;
 }
