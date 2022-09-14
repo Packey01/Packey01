@@ -4,6 +4,7 @@ A website showcasing graphic and web design skill
 
 # Author
 Andrea Packey
+
 Github: @Packey01
 
 # Contributing
